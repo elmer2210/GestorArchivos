@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ManejoArchivo.Negocio/1.0.0": {
+        "runtime": {
+          "ManejoArchivo.Negocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManejoArchivo.Negocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
