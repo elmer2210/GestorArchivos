@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ManejoArchivo.Negocio\ManejoArchivo.Negocio.csproj" />
+    <ProjectReference Include="..\ManejoArchivo.Paralelismo\ManejoArchivo.Paralelismo.csproj" />
+  </ItemGroup>
+
+</Project>

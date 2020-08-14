@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ManejoArchvio.Consola/1.0.0": {
+        "dependencies": {
+          "ManejoArchivo.Negocio": "1.0.0",
+          "ManejoArchivo.Paralelismo": "1.0.0"
+        },
+        "runtime": {
+          "ManejoArchvio.Consola.dll": {}
+        }
+      },
+      "ManejoArchivo.Negocio/1.0.0": {
+        "runtime": {
+          "ManejoArchivo.Negocio.dll": {}
+        }
+      },
+      "ManejoArchivo.Paralelismo/1.0.0": {
+        "runtime": {
+          "ManejoArchivo.Paralelismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManejoArchvio.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManejoArchivo.Negocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManejoArchivo.Paralelismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
